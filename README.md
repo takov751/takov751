@@ -7,7 +7,7 @@ About me 🧔
 </h3>
 
 
-I am interested in cybersecurity and technology overall ,with a realist privacy-conscious point of view. At this point of time I am seeking my first IT related job as well. 
+I am interested in cybersecurity, coding and  technology overall ,with a realist privacy-conscious point of view. At this point of time I am seeking my first IT related job mostly in Software development or DevSecOps. 
 
 <h3 align="center">
 Related Links 🔗
